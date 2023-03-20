@@ -19,3 +19,17 @@
 button:hover{
 	opacity: 0.9;
 }
+.filters .locations{
+	height: 100%;
+	max-width: 25%;
+}
+.filters .first-left{
+	border-right: #DDDDDD 1px;
+}
+.filters h3{
+	font-weight: 600;
+}
+.filters h4{
+	font-weight: 400;
+	font-size: 14px;
+}
